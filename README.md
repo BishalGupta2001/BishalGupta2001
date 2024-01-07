@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bishalgupta2001&label=profile%20visitors&color=0e75b6&style=flat" alt="bishalgupta2001" /> </p>
 
-- 🔭 I’m currently working on **My Portfolio**
+- 🔭 I’m currently working on **React**
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **React**
 
 - 👨‍💻 Here is my one of the project [https://gallery-img-modal.netlify.app/](https://gallery-img-modal.netlify.app/)
 
